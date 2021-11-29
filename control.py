@@ -3,8 +3,8 @@ from fuzzywuzzy import fuzz
 import tool.driver as driver
 import requests,json
 info = {
-    "题库": {},
-    "学校信息": {},
+    "题库": {https://github.com/aqz236/aqz236-hnzjtk},
+    "学校信息": {河南中医药大学},
     "最新消息":{}
 }
 
